@@ -8,7 +8,7 @@ Preprint available: [[ArXiv link](https://arxiv.org/pdf/2108.04694.pdf)]
 
 ## Dataset download
 
-All experiments are conducted on the [[WNMF dataset](https://github.com/olly-styles/Multi-Camera-Trajectory-Forecasting)], which is required to run the code.
+All experiments are conducted on the [[WNMF dataset](https://github.com/olly-styles/Multi-Camera-Trajectory-Forecasting)], which is required to run the code. Please note that the results in the paper use the updated annotations (avaiable after 2021.08.10). If you requested the dataset before this date, please send an new dataset request to get the updated annotations. 
 
 ## Installation
 

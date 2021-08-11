@@ -4,6 +4,8 @@ This repo accompaines the following paper (CURRENTLY UNDER REVIEW):
 
 Olly Styles, Tanaya Guha, Victor Sanchez, “Multi-Camera Trajectory Forecasting with Trajectory Tensors”, Subbmited to t-PAMI (UNDER REVIEW)
 
+Preprint available: [[ArXiv link](https://arxiv.org/pdf/2108.04694.pdf)]
+
 ## Dataset download
 
 All experiments are conducted on the [[WNMF dataset](https://github.com/olly-styles/Multi-Camera-Trajectory-Forecasting)], which is required to run the code.

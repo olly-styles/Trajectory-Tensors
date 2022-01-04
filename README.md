@@ -2,7 +2,7 @@
 
 This repo accompanies the following paper:
 
-Olly Styles, Tanaya Guha, Victor Sanchez, “Multi-Camera Trajectory Forecasting with Trajectory Tensors”, t-PAMI (to appear)
+Olly Styles, Tanaya Guha, Victor Sanchez, “Multi-Camera Trajectory Forecasting with Trajectory Tensors”, tPAMI 2021
 
 Preprint available: [[ArXiv link](https://arxiv.org/pdf/2108.04694.pdf)]
 
